@@ -1,2 +1,2 @@
 # Roshani-gas-suppliers
-for selling gas or gar item
+for selling gas or gas item
